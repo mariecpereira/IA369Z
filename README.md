@@ -1,4 +1,4 @@
-# Extracao de Caracteristicas Corpo Caloso
+# Extração de Características Corpo Caloso
 Executable Paper - IA369Z class at FEEC - UNICAMP (2017/1)
 
 - /dev contains the codes being developed.
