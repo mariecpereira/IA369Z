@@ -1,4 +1,4 @@
-# Computacional methods for Corpus Callosum segmentation and parcelation 
+# Corpus callosum diffusion properties differences in systemic lupus patients 
 Executable Paper - IA369Z class at FEEC - UNICAMP (2017/1)
 
 - /dev contains the codes being developed.
