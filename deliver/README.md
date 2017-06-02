@@ -2,7 +2,7 @@
 # READ ME - Corpus callosum diffusion properties differences in systemic lupus patients
 
  - Here you will find all the implementation necessary to reproduce the paper. 
- - For an illustrative notebook [link](http://nbviewer.jupyter.org/github/mariecpereira/IA369Z/blob/ad3ffa24bb5d085fc6ad8d4601faad8e82077323/deliver/02062017_Paper_MECP.ipynb)
+ - For an illustrative notebook [link](http://nbviewer.jupyter.org/github/mariecpereira/IA369Z/blob/3b06e813aadb554aa8885d95f4ec4921cd93382c/deliver/02062017_Paper_MECP.ipynb)
  - For CODE [link](https://github.com/mariecpereira/IA369Z/blob/master/deliver/02062017_Codebook.ipynb)
 
 ## 1 - What is this repository for? 
